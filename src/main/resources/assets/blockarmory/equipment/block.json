@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "humanoid": [
+      { "texture": "blockarmory:block", "dyeable": { "color_when_undyed": -1 } }
+    ],
+    "humanoid_leggings": [
+      { "texture": "blockarmory:block", "dyeable": { "color_when_undyed": -1 } }
+    ]
+  }
+}

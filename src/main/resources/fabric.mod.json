@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "blockarmory",
+  "version": "${version}",
+  "name": "Block Armory",
+  "description": "Craft a full tool and armor set out of every block in the game, and uncrafting them (and other items) back into their ingredients with the Uncrafting Table.",
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.blockarmory.BlockArmory"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

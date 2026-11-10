@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "blockarmory:item/boots",
+    "tints": [
+      { "type": "minecraft:dye", "default": -1 }
+    ]
+  }
+}

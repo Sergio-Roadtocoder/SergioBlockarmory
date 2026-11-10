@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "blockarmory:item/hoe_handle",
+    "layer1": "blockarmory:item/hoe_head"
+  }
+}

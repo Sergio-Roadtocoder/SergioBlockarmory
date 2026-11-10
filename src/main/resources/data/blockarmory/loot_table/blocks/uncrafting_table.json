@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "conditions": [ { "condition": "minecraft:survives_explosion" } ],
+      "entries": [ { "type": "minecraft:item", "name": "blockarmory:uncrafting_table" } ]
+    }
+  ],
+  "random_sequence": "blockarmory:blocks/uncrafting_table"
+}

@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "blockarmory:item/chestplate",
+    "tints": [
+      { "type": "minecraft:dye", "default": -1 }
+    ]
+  }
+}

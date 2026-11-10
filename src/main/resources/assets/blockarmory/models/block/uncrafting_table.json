@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "blockarmory:block/uncrafting_table_side",
+    "down": "blockarmory:block/uncrafting_table_bottom",
+    "up": "blockarmory:block/uncrafting_table_top",
+    "north": "blockarmory:block/uncrafting_table_side",
+    "south": "blockarmory:block/uncrafting_table_side",
+    "east": "blockarmory:block/uncrafting_table_side",
+    "west": "blockarmory:block/uncrafting_table_side"
+  }
+}

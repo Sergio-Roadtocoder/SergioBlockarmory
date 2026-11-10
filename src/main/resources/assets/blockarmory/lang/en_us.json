@@ -1,0 +1,14 @@
+{
+  "block.blockarmory.uncrafting_table": "Uncrafting Table",
+  "item.blockarmory.pickaxe": "%s Pickaxe",
+  "item.blockarmory.axe": "%s Axe",
+  "item.blockarmory.shovel": "%s Shovel",
+  "item.blockarmory.hoe": "%s Hoe",
+  "item.blockarmory.sword": "%s Sword",
+  "item.blockarmory.helmet": "%s Helmet",
+  "item.blockarmory.chestplate": "%s Chestplate",
+  "item.blockarmory.leggings": "%s Leggings",
+  "item.blockarmory.boots": "%s Boots",
+  "itemGroup.blockarmory.gear": "Block Armory",
+  "message.blockarmory.cannot_uncraft": "This item can't be uncrafted"
+}
