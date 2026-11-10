@@ -41,7 +41,7 @@ public class GearRecipe extends CustomRecipe {
     }
 
     @Override
-    public RecipeSerializer<? extends Recipe<CraftingInput>> getSerializer() {
+    public RecipeSerializer<? extends CustomRecipe> getSerializer() {
         return BlockArmory.SERIALIZERS.get(kind);
     }
 
